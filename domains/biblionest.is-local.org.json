@@ -13,6 +13,7 @@
         "MX": ["emx.mail.ru"],
         "TXT": [
             "mailru-domain: xFZ8hAJWrhSr6PJx", 
+            "zoho-verification=zb81054675.zmverify.zoho.in",
             "v=spf1 a mx include:_spf.mail.ru ~all",
             "atlassian-domain-verification=2w8ldZwTC1/k6xjchySWvmcc7pPXMmaFND6nkFT6qhGrJ4NCr1w/9tq/nzTMzgFS"
         ]
